@@ -1,4 +1,4 @@
-package com.midia.loginSecurity.user.config;
+package com.midia.loginSecurity.config;
 
 import com.midia.loginSecurity.user.services.JwtService;
 import jakarta.servlet.FilterChain;
